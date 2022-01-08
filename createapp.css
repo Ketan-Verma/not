@@ -1,0 +1,39 @@
+.create{
+    font-size: 105%;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    padding: 1em;
+    /* border: 2px solid #ccc; */
+    background-color: #f8f8f8;
+}
+#button{
+    width: 100px;
+    margin: 1em 0em;
+}
+textarea{
+  width: 100%;;
+  height: 150px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  font-size: 16px;
+  resize: none;
+  padding: 0.5em;
+}
+input{
+    padding: 0.2em;
+    width: 12em;
+}
+label{
+    margin: 0.3em;
+}
+select{
+    padding: 0.2em;
+    width: 150px;
+
+}
+#date{
+    width: 150px;
+}
